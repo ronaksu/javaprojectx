@@ -1,0 +1,12 @@
+SMAP
+downvote_jsp.java
+JSP
+*S JSP
+*F
++ 0 downvote.jsp
+downvote.jsp
+*L
+5,11:46
+16,13:58
+28,7:71
+*E

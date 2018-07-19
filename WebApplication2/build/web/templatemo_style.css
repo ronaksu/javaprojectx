@@ -1,0 +1,103 @@
+
+.head{
+height:100px;
+width:100%;
+float:left;
+border:1px solid grey;
+background: url(images/head.png) no-repeat;
+padding-top:45px;
+}
+
+.name{
+height:30px;
+width:100%;
+float:left;
+border: 1px solid grey;
+ background: url(images/head.png) no-repeat;
+}
+
+.smenu{
+	height:600px;
+	width:320px;
+	float:left;
+	border:1px solid grey;
+	background: url(images/1.png) no-repeat;	
+}
+
+
+.templatemo_menu {
+        
+	float: left;
+        margin: 20px 65px 35px 0;
+	width: 211px;
+	display: inline;
+}
+
+.templatemo_menu ul {
+        
+	list-style-type: none;
+	padding-top:20px ;
+	margin: 0;
+	width: 211px;
+}
+
+.templatemo_menu li a {
+       
+	display: block;
+	height: 27px;
+	padding: 7px 0 0 50px;
+        margin: 5px 0 0 0;
+	color: #fff;
+	font-weight: bold;
+	background: url(images/templatemo_menu.gif) no-repeat;	
+	text-decoration:none;
+}
+
+.templatemo_menu li a:hover, .templatemo_menu li .current {
+        
+	background: url(images/templatemo_menu_current.gif) no-repeat;	
+	text-decoration:none;
+	color: #00FFFF;
+
+}
+
+
+
+.scroll {
+    margin-top:0px;
+    height: 558px;
+    width: 1068px;
+    overflow: auto;
+    overflow-x: hidden;
+    position: relative;
+    clear: left;
+    background: url(images/floor3.jpg) repeat
+}
+
+.scrollContainer div.panel {
+    margin-top:0px;
+    height: 558px;
+    width: 1060px;
+    overflow: hidden;
+    background: url(images/floor3.jpg) repeat
+}
+
+
+#content {
+	float: right;
+        margin-top:0px;
+	width: 1068px;
+	height: 558px;	
+	background: url(images/floor3.jpg) repeat
+}
+
+.footer{
+        margin-top:0px;
+        float: right;
+	width: 1068px;
+	height: 400px;
+        background: url(images/floor3.jpg) repeat
+}
+
+
+ 

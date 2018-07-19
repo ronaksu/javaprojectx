@@ -1,0 +1,30 @@
+SMAP
+viewprofile_jsp.java
+JSP
+*S JSP
+*F
++ 0 viewprofile.jsp
+viewprofile.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5,6:51
+1#1:56
+6,4:57
+10,2:62
+11,5:64
+16,2:69,3
+18,9:75
+10#0,4:83
+14:87,3
+15,2:90
+17:92,3
+18,2:95
+20:97,3
+21,2:100
+23:102,3
+24,4:105
+1#2,9:109
+*E
